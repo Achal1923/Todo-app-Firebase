@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20661337802",
+    "project_id": "mytodolistappfirebase",
+    "storage_bucket": "mytodolistappfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20661337802:android:f53ce5462dee238ec1fe33",
+        "android_client_info": {
+          "package_name": "com.achal.my_todolistapp_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20661337802-73g53gvoj30uao01up6dbsmvrobkqatf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4LKjYPzquqKzad27KaYGLw_xL_CNhP_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20661337802-73g53gvoj30uao01up6dbsmvrobkqatf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
